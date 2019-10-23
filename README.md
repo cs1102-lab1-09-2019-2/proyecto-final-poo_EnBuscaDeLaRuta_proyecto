@@ -10,11 +10,11 @@ Integrantes - (Usuarios Github:):
 1.- <b>Quispe Bao David Caleb</b><br>
     <i>David Caleb</i>
 
-2.- <b>nombre_completo2</b><br>
-    <i>usuario_github2</i>
+2.- <b>Tamayo Mendoza Arian Venancio</b><br>
+    <i>ariantamayo</i>
 
-3.- <b>nombre_completo3</b><br>
-    <i>usuario_github3</i>
+3.- <b>Chavez Rivera Jose Antonio</b><br>
+    <i>josechavezri</i>
 
 Instrucciones:
 --
