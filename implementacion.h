@@ -9,3 +9,4 @@ using namespace std;
 #include "mapa.h"
 
 typedef int Entero;
+typedef char Caracter;
